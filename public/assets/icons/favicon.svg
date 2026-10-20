@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PetTracker Escolar">
+  <rect width="64" height="64" rx="15" fill="#245a45"/>
+  <circle cx="32" cy="32" r="26" fill="#296f52"/>
+  <g fill="#fbf7ec">
+    <ellipse cx="32" cy="41" rx="11.5" ry="8.5"/>
+    <ellipse cx="21" cy="29" rx="4.4" ry="6.2"/>
+    <ellipse cx="27.8" cy="24.5" rx="4.4" ry="6.2"/>
+    <ellipse cx="36.2" cy="24.5" rx="4.4" ry="6.2"/>
+    <ellipse cx="43" cy="29" rx="4.4" ry="6.2"/>
+  </g>
+</svg>
